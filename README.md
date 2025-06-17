@@ -8,7 +8,7 @@ This project uses `uv` for dependency management.
 
 ```bash
 # Install dependencies
-uv pip install -r requirements.txt
+uv add -r requirements.txt
 ```
 
 ## Running the Application 🚀
